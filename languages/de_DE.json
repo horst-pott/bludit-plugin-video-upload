@@ -1,0 +1,6 @@
+{
+    "plugin-data": {
+        "name": "Video-Upload",
+        "description": "Kurze Video-Clips (MP4/WebM/MOV) hochladen und als klickbare Kachel mit Ziel-Link anzeigen."
+    }
+}
