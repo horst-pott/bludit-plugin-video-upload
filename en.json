@@ -1,6 +1,0 @@
-{
-    "plugin-data": {
-        "name": "Video Upload",
-        "description": "Upload short video clips (MP4/WebM/MOV) and show them as a clickable tile linking to a target page."
-    }
-}
