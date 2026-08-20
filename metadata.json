@@ -1,0 +1,12 @@
+{
+    "name": "Video-Upload",
+    "description": "Kurze Video-Clips (MP4/WebM/MOV) hochladen und als klickbare Kachel mit Ziel-Link anzeigen.",
+    "version": "1.0",
+    "author": "HAWK Studio & Eventservice",
+    "authorEmail": "",
+    "authorWebsite": "",
+    "license": "MIT",
+    "compatible": "3.x",
+    "notes": "",
+    "type": "plugin"
+}
